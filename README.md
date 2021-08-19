@@ -9,16 +9,8 @@ In this java project we will see how to manage the hotel clients:
 - a button to refresh the jtable data.
 
 Java Swing Components Used In This Project:
-- JFrame
-- JPanel
-- JTextfield.
-- JButton.
-- JTabel.
-- JLabel.
-- JMenu and JMenuItem.
-- JDatechooser.
-- JRadioButton. 
-- JCombobox.
+- JFrame JPanel JTextfield JButton JTable JLabel 
+- JMenu and JMenuItem JDatechooser JRadioButton JCombobox.
 
 Tools Used In This Java Project:
 - Java Programming Language 
