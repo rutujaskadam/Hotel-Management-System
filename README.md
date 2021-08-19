@@ -1,5 +1,12 @@
 # Hotel-Management-System
-Hotel Management System using Java And Swing
+Tools Used In This Java Project:
+- Java Programming Language 
+- NetBeans IDE 
+- XAMPP 
+- PhpMyAdmin 
+- MySQL Database 
+
+User Authentication  -Login and Sign Up system.
 
 In this java project we will see how to manage the hotel clients: 
 - add a new client
@@ -9,12 +16,4 @@ In this java project we will see how to manage the hotel clients:
 - a button to refresh the jtable data.
 
 Java Swing Components Used In This Project:
-- JFrame JPanel JTextfield JButton JTable JLabel 
-- JMenu and JMenuItem JDatechooser JRadioButton JCombobox.
-
-Tools Used In This Java Project:
-- Java Programming Language 
-- NetBeans IDE 
-- XAMPP 
-- PhpMyAdmin 
-- MySQL Database 
+- JFrame, JPanel, JTextfield, JButton, JTable, JLabel,JMenu and JMenuItem, JDatechooser, JRadioButton, JCombobox.
